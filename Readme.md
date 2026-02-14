@@ -16,8 +16,8 @@ go build -o ascii-art-color
 ./ascii-art-color "Hello" thinkertoy
 
 ## Pipeline Architecture
-
 Input
+
   ↓
 ValidateInput
   ↓
